@@ -39,13 +39,13 @@ const Navbar = () => {
         ))
     const [open , setOpen] = useState(true)
   return (
-    <nav className="flex my-3 justify-between w-11/12 mx-auto text-black">
+    <nav className="flex my-3 justify-between  text-black">
       <span className="flex" onClick={() => setOpen(!open)}>
         {open ? <Menu className="md:hidden"></Menu> : <X className="font-bold"></X>}
         <ul className={`md:hidden absolute duration-1000 ${open ?'-top-50 ': 'top-23 '}`}>
             {links2}
         </ul>
-        <h3 className="ml-3">Navbar</h3>
+        <h3 className="ml-3 lg:ml-0">Navbar</h3>
       </span>
       <ul className="md:flex hidden ">
         {links}
