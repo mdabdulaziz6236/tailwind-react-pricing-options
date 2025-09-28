@@ -22,6 +22,7 @@ function App() {
         >
           <PricingOptions pricingPromise={pricingPromise}></PricingOptions>
         </Suspense>
+
       </main>
       <footer></footer>
     </>
