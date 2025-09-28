@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$20/month",
+    "info": "Perfect for beginners who want access to essential equipment.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 free fitness assessment",
+      "Open gym hours only",
+      "Access to cardio machines",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$40/month",
+    "info": "Ideal for regular gym-goers who want extra benefits.",
+    "features": [
+      "All Basic Plan features",
+      "Unlimited group classes (Yoga, Zumba, etc.)",
+      "1 free personal training session/month",
+      "Sauna & steam room access",
+      "Access to swimming pool",
+      "Free guest pass (1/month)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$60/month",
+    "info": "Best for serious fitness lovers with complete access.",
+    "features": [
+      "All Standard Plan features",
+      "Unlimited personal training sessions",
+      "Nutrition & diet consultation",
+      "Priority support & VIP locker",
+      "Towel & water service",
+      "Access to advanced strength training area"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Annual Plan",
+    "price": "$500/year",
+    "info": "Save money with a yearly membership package.",
+    "features": [
+      "All Premium Plan features",
+      "1 free gym kit (T-shirt + bottle)",
+      "Exclusive workshops & events",
+      "Discounts on supplements",
+      "1 complimentary health checkup/year",
+      "Free entry to fitness competitions"
+    ]
+  }
+]
